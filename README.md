@@ -1,8 +1,8 @@
 # React component composition cheatsheet
 
-This is a small list of common techiques used in React
+This is a small list of common techniques used in React
 to compose and enhance components. Feel free to create
-Pull Requests with further techiques or fixes.
+Pull Requests with further techniques or fixes.
 
 ### Basic containment
 
